@@ -95,4 +95,4 @@ optional arguments:
          2        18    1-7   *     *           python3 /PATH/TO/Auto_clock/clock.py -j example_job2 signout        
       # For example, 50 hours per month per jobs.    
     ```
-
+補充網址: [crontab 工作排程](https://ithelp.ithome.com.tw/articles/10253879)
